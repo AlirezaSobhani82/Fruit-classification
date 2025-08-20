@@ -42,6 +42,8 @@ The dataset consists of fruit samples stored in a text file (`fruit.txt`). Each 
 
 The program outputs the accuracy of each model on training and testing data and predicts the fruit label for new samples based on their features.
 
+
+
 🌍 Author
 Alireza Sobhani
 Machine Learning & Computer Vision Developer
@@ -51,3 +53,4 @@ Focused on international portfolio building and migration-ready projects.
 Feel free to reach out via LinkedIn or GitHub for collaboration or freelance opportunities.
 https://www.linkedin.com/in/alireza-sobhani-385134245
 https://wa.me/message/XW6WQJCVM6LQH1
+```
